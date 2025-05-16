@@ -32,7 +32,7 @@ A imagem usada foi criada com apoio da inteligência artificial (ChatGPT + DALL�
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
